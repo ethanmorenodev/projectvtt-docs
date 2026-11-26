@@ -2,7 +2,7 @@
 
 Documentación pública del caso de estudio **ProjectVTT**, una mesa virtual para campañas de juegos de rol. El código fuente del proyecto es privado; este repositorio recoge la definición del producto, las decisiones técnicas y la planificación para que el trabajo sea auditable y verificable.
 
-> Estado: la documentación recogida aquí corresponde a la revisión del **10 de noviembre de 2026**. Las decisiones marcadas como `Propuesta` o `Pendiente` no deben interpretarse como cerradas.
+> Estado: la documentación recogida aquí es la revisión inicial del **10 de noviembre de 2026**. El proyecto ha avanzado desde entonces: el código está publicado en https://github.com/ethanmorenodev/projectvtt y el estado actual se documenta allí. Las decisiones marcadas como `Propuesta` o `Pendiente` en estos archivos reflejan ese momento, no necesariamente el estado actual.
 
 ## Documentos
 
@@ -45,4 +45,4 @@ La presentación visual del proyecto, con capturas reales etiquetadas y estado M
 
 ## Licencia y uso
 
-La licencia del producto está pendiente de decisión del propietario (`PROJECT_SPEC.md`), por lo que este repositorio no aplica una licencia propia. La documentación se publica para consulta y revisión del caso de estudio; su reproducción requiere el permiso del propietario del proyecto.
+El código y la documentación del proyecto se publican bajo licencia **MIT** (ADR-047 y `LICENSE` en el repositorio de código). Los assets y el SRD conservan sus licencias Creative Commons registradas en los créditos del proyecto.
